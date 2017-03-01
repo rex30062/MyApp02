@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My App02</string>
+    <string name="textView2" translatable="false">clear</string>
+</resources>
